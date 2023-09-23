@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="main.qml">qml/main.qml</file>
+        <file alias="AppHeader.qml">qml/AppHeader.qml</file>   
+        <file alias="ButtonControl.qml">qml/ButtonControl.qml</file>
+        <file alias="MediaInfoControl.qml">qml/MediaInfoControl.qml</file>
+        <file alias="PlaylistView.qml">qml/PlaylistView.qml</file>
+        <file alias="SwitchButton.qml">qml/SwitchButton.qml</file>
+    </qresource>
+</RCC>
