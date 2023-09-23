@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="album_art.png">images/album_art.png</file>
+        <file alias="background.png">images/background.png</file>
+        <file alias="back.png">images/back.png</file>
+        <file alias="Bui-Anh-Tuan.png">images/Bui-Anh-Tuan.png</file>
+        <file alias="center_point.png">images/center_point.png</file>
+        <file alias="drawer.png">images/drawer.png</file>
+        <file alias="drawer_p.png">images/drawer_p.png</file>
+        <file alias="Ha-Anh-Tuan.png">images/Ha-Anh-Tuan.png</file>
+        <file alias="hold.png">images/hold.png</file>
+        <file alias="hold-next.png">images/hold-next.png</file>
+        <file alias="hold-pause.png">images/hold-pause.png</file>
+        <file alias="hold-play.png">images/hold-play.png</file>
+        <file alias="hold-prev.png">images/hold-prev.png</file>
+        <file alias="Hongkong1.png">images/Hongkong1.png</file>
+        <file alias="music.png">images/music.png</file>
+        <file alias="next.png">images/next.png</file>
+        <file alias="pause.png">images/pause.png</file>
+        <file alias="play.png">images/play.png</file>
+        <file alias="playing.png">images/playing.png</file>
+        <file alias="playlist.png">images/playlist.png</file>
+        <file alias="playlist_item.png">images/playlist_item.png</file>
+        <file alias="point.png">images/point.png</file>
+        <file alias="prev.png">images/prev.png</file>
+        <file alias="progress_bar.png">images/progress_bar.png</file>
+        <file alias="progress_bar_bg.png">images/progress_bar_bg.png</file>
+        <file alias="repeat.png">images/repeat.png</file>
+        <file alias="repeat1_hold.png">images/repeat1_hold.png</file>
+        <file alias="shuffle.png">images/shuffle.png</file>
+        <file alias="shuffle-1.png">images/shuffle-1.png</file>
+        <file alias="title.png">images/title.png</file>
+        <file alias="us.png">images/us.png</file>
+        <file alias="USB Mussic.png">images/USB Mussic.png</file>
+        <file alias="vn.png">images/vn.png</file>
+    </qresource> 
+        <qresource prefix="/translation">
+        <file alias="translate_us.qm">translation/translate_us.qm</file>
+        <file alias="translate_us.ts">translation/translate_us.ts</file>
+        <file alias="translate_vn.qm">translation/translate_vn.qm</file>
+        <file alias="translate_vn.ts">translation/translate_vn.ts</file>    
+    </qresource>
+</RCC>
