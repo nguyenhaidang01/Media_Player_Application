@@ -7,7 +7,6 @@
 
 ## Environment
 - QMake version: 3.1
-- Qt version: Qt 5.15.15 GCC 64bit
-- C++ Compiler: g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
-- Operating System: Ubuntu 22.04.1 LTS (Jammy Jellyfish)
-
+- Qt version: Qt 5.15.2
+- C++ Compiler: MinGW 64-bit (MinGW-w64)
+- Operating System: Microsoft Windows [Version 10.0.22000.1696]
