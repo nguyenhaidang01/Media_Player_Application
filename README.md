@@ -1,2 +1,13 @@
-# Media_Player_Application
-This project builds a media player. The program is built interfaces using Qt/Qml and gets the model using C++. The program has features such as changing language, display playlist, artist as listview and pathview, play music, next, previous, shuffle, repeat,...
+<p align="center">
+ <h1 align="center">Media_Player_Application</h1>
+</p>
+
+## Introduction
+ Create a music player application that plays and streams music. Write functions for buttons such as next, previous, play, pause, translate ... The application should have a beautiful interface.
+
+## Environment
+- QMake version: 3.1
+- Qt version: Qt 5.15.15 GCC 64bit
+- C++ Compiler: g++ (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
+- Operating System: Ubuntu 22.04.1 LTS (Jammy Jellyfish)
+
